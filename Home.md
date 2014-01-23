@@ -16,5 +16,6 @@
         - [更新实体](https://github.com/ecomfe/ub-ria/wiki/%E5%89%8D%E5%90%8E%E7%AB%AF%E6%8E%A5%E5%8F%A3%E8%A7%84%E8%8C%83-%E6%9B%B4%E6%96%B0%E5%AE%9E%E4%BD%93)
         - [删除实体](https://github.com/ecomfe/ub-ria/wiki/%E5%89%8D%E5%90%8E%E7%AB%AF%E6%8E%A5%E5%8F%A3%E8%A7%84%E8%8C%83-%E5%88%A0%E9%99%A4%E5%AE%9E%E4%BD%93)
         - [更新实体状态](https://github.com/ecomfe/ub-ria/wiki/%E5%89%8D%E5%90%8E%E7%AB%AF%E6%8E%A5%E5%8F%A3%E8%A7%84%E8%8C%83-%E6%9B%B4%E6%96%B0%E5%AE%9E%E4%BD%93%E7%8A%B6%E6%80%81)
+        - [添加星标](https://github.com/ecomfe/ub-ria/wiki/%E5%89%8D%E5%90%8E%E7%AB%AF%E6%8E%A5%E5%8F%A3%E8%A7%84%E8%8C%83-%E6%B7%BB%E5%8A%A0%E6%98%9F%E6%A0%87)
         - [修改每页显示条目数](https://github.com/ecomfe/ub-ria/wiki/%E5%89%8D%E5%90%8E%E7%AB%AF%E6%8E%A5%E5%8F%A3%E8%A7%84%E8%8C%83-%E4%BF%AE%E6%94%B9%E6%AF%8F%E9%A1%B5%E6%98%BE%E7%A4%BA%E6%9D%A1%E7%9B%AE%E6%95%B0)
         - [上传文件](https://github.com/ecomfe/ub-ria/wiki/%E5%89%8D%E5%90%8E%E7%AB%AF%E6%8E%A5%E5%8F%A3%E8%A7%84%E8%8C%83-%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0)
